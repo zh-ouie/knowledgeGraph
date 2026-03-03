@@ -20,7 +20,11 @@ This project provides an automated pipeline for extracting structured data from 
 
 ![Knowledge Graph Visualization](img/graph.png)
 
-You can also explore the interactive version of the graph by opening [kg_property_instantiation.html](img/kg_property_instantiation.html) in your web browser.
+### Interactive Graph
+You can explore the interactive version of the graph online:
+- **[Click here to view interactive graph](https://htmlpreview.github.io/?https://github.com/zh-ouie/knowledgeGraph/blob/main/img/kg_property_instantiation.html)** (via htmlpreview)
+
+> **Note**: GitHub does not render HTML files directly. To view it properly, use the link above, or enable **GitHub Pages** in your repository settings.
 
 ## Prerequisites
 
