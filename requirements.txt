@@ -1,0 +1,7 @@
+networkx
+pyvis
+pymupdf
+tqdm
+python-dotenv
+openai
+Pillow
